@@ -43,5 +43,5 @@ Lasso Regression number of features used: for alpha =0.0001: 2
 The actual data is plotted using Red Color. For the data set used,
 Linear Regression seems to predict the result.
 
-[AAP Equity Prediction](../)
+[AAP Equity Prediction](prediction.png)
 
