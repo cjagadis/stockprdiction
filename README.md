@@ -7,7 +7,7 @@ AAPL equity Close Price is trained using:
 1. KNN Regression
 1. Lasso Regression - No of features 2 (alpha = none, alpha = 0.01, alpha = 0.0001
 
-# Training and Test Scores
+## Training and Test Scores
 ### Linear Regression
 inear Regression training score: 0.967404228040554
 Linear Regression test score:  0.9673076257330185
@@ -20,7 +20,7 @@ Quadratrci Poly2  test score:  0.9689579969047571
 Quadrartic Poly3 Regression training score: 0.9705560643936337
 Quadratrci Poly3  test score:  0.9705514356135095
 
-### KKN 
+### KNN
 KNN training score: 0.9882769020929683
 KNN test score:  0.9580742423824369
 
@@ -43,4 +43,5 @@ Lasso Regression number of features used: for alpha =0.0001: 2
 The actual data is plotted using Red Color. For the data set used,
 Linear Regression seems to predict the result.
 
+[AAP Equity Prediction](../)
 
